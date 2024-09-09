@@ -1,0 +1,6 @@
+framework module AgoraLyricsScore {
+  umbrella header "AgoraLyricsScore-umbrella.h"
+
+  export *
+  module * { export * }
+}

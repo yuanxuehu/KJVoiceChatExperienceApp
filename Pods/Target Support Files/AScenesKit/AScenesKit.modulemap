@@ -1,0 +1,6 @@
+framework module AScenesKit {
+  umbrella header "AScenesKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

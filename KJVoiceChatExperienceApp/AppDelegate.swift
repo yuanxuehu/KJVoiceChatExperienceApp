@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import AUIKitCore
+import AScenesKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -14,6 +16,27 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        //随机设置用户uid
+        let uid = Int(arc4random_uniform(99999999))
+        
+        // 设置基础信息到VoiceChatUIKit里
+        let commonConfig = AUICommonConfig()
+        commonConfig.appId = KeyCenter.AppId
+        commonConfig.appCert = KeyCenter.AppCertificate
+        commonConfig.basicAuth = KeyCenter.AppBasicAuth
+        commonConfig.imAppKey = KeyCenter.IMAppKey
+        commonConfig.imClientId = KeyCenter.IMClientId
+        commonConfig.imClientSecret = KeyCenter.IMClientSecret
+        commonConfig.host = KeyCenter.HostUrl
+        let ownerInfo = AUIUserThumbnailInfo()
+        ownerInfo.userId = "\(uid)"
+        ownerInfo.userName = "user_\(uid)"
+        ownerInfo.userAvatar = "https://accktvpic.oss-cn-beijing.aliyuncs.com/pic/sample_avatar/sample_avatar_1.png"
+        commonConfig.owner = ownerInfo
+        VoiceChatUIKit.shared.setup(commonConfig: commonConfig,
+                                    apiConfig: nil)
+        
         return true
     }
 

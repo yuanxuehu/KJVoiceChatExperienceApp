@@ -1,0 +1,6 @@
+framework module Pods_KJVoiceChatExperienceApp {
+  umbrella header "Pods-KJVoiceChatExperienceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

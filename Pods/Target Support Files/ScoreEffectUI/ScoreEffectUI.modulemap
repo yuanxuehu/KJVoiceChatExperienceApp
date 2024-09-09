@@ -1,0 +1,6 @@
+framework module ScoreEffectUI {
+  umbrella header "ScoreEffectUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

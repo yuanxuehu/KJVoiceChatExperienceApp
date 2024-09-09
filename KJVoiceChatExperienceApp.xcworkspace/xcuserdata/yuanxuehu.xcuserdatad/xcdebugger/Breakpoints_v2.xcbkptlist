@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E37A89A-4FE8-4901-9300-E03BA7AF3943"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC18D6E6-0D3C-4D5B-99CD-7C6411A02BEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "sendMessage(roomId:text:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4569F20A-1BB4-4042-AC9D-65B9F280EF54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "login(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "AUIIMManagerServiceImplement"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5 - 499e9eb3c1a047c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AUIKitCore.AUIIMManagerServiceImplement.currentRoomId.getter : Swift.String"
+                  moduleName = "KJVoiceChatExperienceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanxuehu/XcodeProjects/DemoProjects/KJVoiceChatExperienceApp/Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5 - dfe821ab010b37f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AUIKitCore.AUIIMManagerServiceImplement.currentRoomId.setter : Swift.String"
+                  moduleName = "KJVoiceChatExperienceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanxuehu/XcodeProjects/DemoProjects/KJVoiceChatExperienceApp/Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5 - ad643d6840f383c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AUIKitCore.AUIIMManagerServiceImplement.currentRoomId.modify : Swift.String"
+                  moduleName = "KJVoiceChatExperienceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanxuehu/XcodeProjects/DemoProjects/KJVoiceChatExperienceApp/Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5 - c4a29b0817678333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AUIKitCore.AUIIMManagerServiceImplement.currentRoomId.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "KJVoiceChatExperienceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanxuehu/XcodeProjects/DemoProjects/KJVoiceChatExperienceApp/Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "790E94C5-DD64-4A2E-83B0-4142CC48CFD5 - 734ad8510bd5ef54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AUIKitCore.AUIIMManagerServiceImplement.init(channelName: Swift.String, rtmManager: AUIKitCore.AUIRtmManager) -&gt; AUIKitCore.AUIIMManagerServiceImplement"
+                  moduleName = "KJVoiceChatExperienceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanxuehu/XcodeProjects/DemoProjects/KJVoiceChatExperienceApp/Pods/AUIKitCore/iOS/AUIKitCore/Sources/Service/Impl/AUIIMServiceImplement.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

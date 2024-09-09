@@ -1,0 +1,20 @@
+${PODS_ROOT}/Target Support Files/AgoraRtcEngine_Special_iOS/AgoraRtcEngine_Special_iOS-xcframeworks.sh
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraAiEchoCancellationExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraAiNoiseSuppressionExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraAudioBeautyExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraClearVisionExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraContentInspectExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraDav1d.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraFaceDetectionExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraReplayKitExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraRtcKit.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraSoundTouch.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraSpatialAudioExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraVideoDecoderExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraVideoEncoderExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraVideoQualityAnalyzerExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/AgoraVideoSegmentationExtension.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/Agorafdkaac.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/Agoraffmpeg.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/video_dec.xcframework
+${PODS_ROOT}/AgoraRtcEngine_Special_iOS/video_enc.xcframework

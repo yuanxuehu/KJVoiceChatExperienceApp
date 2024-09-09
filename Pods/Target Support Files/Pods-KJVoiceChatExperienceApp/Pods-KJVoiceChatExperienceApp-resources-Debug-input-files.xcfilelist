@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-KJVoiceChatExperienceApp/Pods-KJVoiceChatExperienceApp-resources.sh
+${PODS_ROOT}/../AScenesKit/Resources/auiVoiceChatLocalizable.bundle
+${PODS_ROOT}/../AScenesKit/Resources/auiVoiceChatTheme.bundle
+${PODS_ROOT}/AUIKitCore/iOS/AUIKitCore/Resource/auiLocalizable.bundle
+${PODS_ROOT}/AUIKitCore/iOS/AUIKitCore/Resource/auiTheme.bundle
+${PODS_ROOT}/AUIKitCore/iOS/AUIKitCore/Resource/ChatResource.bundle
+${PODS_ROOT}/AUIKitCore/iOS/AUIKitCore/Resource/Gift.bundle
+${PODS_ROOT}/AUIKitCore/iOS/AUIKitCore/Resource/Invitation.bundle

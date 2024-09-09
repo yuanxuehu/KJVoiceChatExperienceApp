@@ -1,0 +1,6 @@
+framework module AUIKitCore {
+  umbrella header "AUIKitCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
